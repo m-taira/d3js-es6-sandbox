@@ -1,0 +1,20 @@
+{
+  "name": "d3js-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.34",
+    "babel-core": "^5.8.34",
+    "babel-loader": "^5.4.0",
+    "d3": "^3.5.9",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "webpack": "^1.12.6"
+  }
+}
